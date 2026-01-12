@@ -44,6 +44,7 @@ Técnicas utilizadas:
 
 ## ▶ Como executar o projeto
 
-### Instalar dependências
-```bash
-npm install
+bash 
+npm install 
+npx cypress open
+
