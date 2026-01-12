@@ -42,9 +42,8 @@ Técnicas utilizadas:
 
 ---
 
-## ▶ Como executar o projeto
-
-bash 
-npm install 
+## ▶ Como executar
+```bash
+npm install
 npx cypress open
 
