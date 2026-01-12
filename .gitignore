@@ -1,0 +1,12 @@
+node_modules/
+
+cypress/videos/
+cypress/screenshots/
+
+.cypress/
+
+npm-debug.log*
+yarn-error.log*
+
+.env
+.env.*
